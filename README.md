@@ -1,2 +1,2 @@
-# App-Gesti-n-de-Seguros
-App creada según el modelo MVC, y CRUD sobre sus elementos de formularios.
+# App-Gestion-de-Seguros
+App creada según el modelo MVC, realizando  CRUD con PHP orientado a objetos, MySQL, Javascript, etc
