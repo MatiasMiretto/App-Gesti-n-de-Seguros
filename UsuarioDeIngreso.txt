@@ -1,0 +1,4 @@
+Para ingresar a la aplicacion debe logearse como administrador
+
+Usuario = Administrador
+Contraseña = 1234567
